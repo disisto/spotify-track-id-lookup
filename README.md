@@ -9,9 +9,13 @@ Spotify Track ID Lookup by troubleshooting.tools resolves the entered Spotify Tr
 ## Content
 
 1.) [Web page](https://github.com/disisto/spotify-track-id-lookup#1-web-page)
+<br>
 2.) [Webhook](https://github.com/disisto/spotify-track-id-lookup#2-webhook)
+<br>
 3.) [Open Graph](https://github.com/disisto/spotify-track-id-lookup#3-open-graph)
+<br>
 4.) [OpenSearch](https://github.com/disisto/spotify-track-id-lookup#4-opensearch)
+<br>
 5.) [HTML search form](https://github.com/disisto/spotify-track-id-lookup#5-html-search-form)
 
 
