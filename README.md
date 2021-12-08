@@ -51,7 +51,7 @@ Twitter:<br>
 <img src="https://github.com/disisto/spotify-track-id-lookup/blob/main/img/opengraph/twitter.png" style="width: 50%; height: 50%">
 
 
-## 4.) Open Search
+## 4.) OpenSearch
 
 The browser integration of troubleshooting.tools allows to use the browser address bar as a search input field, when needed, without visiting the original web page before.
 
