@@ -8,11 +8,11 @@ Spotify Track ID Lookup by troubleshooting.tools resolves the entered Spotify Tr
 
 ## Content
 
-- [Web page](https://github.com/disisto/spotify-track-id-lookup#1-web-page)
-- [Webhook](https://github.com/disisto/spotify-track-id-lookup#2-webhook)
-- [Open Graph](https://github.com/disisto/spotify-track-id-lookup#3-open-graph)
-- [OpenSearch](https://github.com/disisto/spotify-track-id-lookup#4-opensearch)
-- [HTML search form](https://github.com/disisto/spotify-track-id-lookup#5-html-search-form)
+1.) [Web page](https://github.com/disisto/spotify-track-id-lookup#1-web-page)
+2.) [Webhook](https://github.com/disisto/spotify-track-id-lookup#2-webhook)
+3.) [Open Graph](https://github.com/disisto/spotify-track-id-lookup#3-open-graph)
+4.) [OpenSearch](https://github.com/disisto/spotify-track-id-lookup#4-opensearch)
+5.) [HTML search form](https://github.com/disisto/spotify-track-id-lookup#5-html-search-form)
 
 
 ## 1.) Web page
