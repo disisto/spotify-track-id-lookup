@@ -8,14 +8,16 @@ Spotify Track ID Lookup by troubleshooting.tools resolves the entered Spotify Tr
 
 ## Content
 
-- [Web page](https://github.com/disisto/spotify-track-id-lookup#web-page)
-- [Webhook](https://github.com/disisto/spotify-track-id-lookup#webhook)
-- [Open Graph](https://github.com/disisto/spotify-track-id-lookup#open-graph)
-- [OpenSearch](https://github.com/disisto/spotify-track-id-lookup#opensearch)
-- [HTML search form](https://github.com/disisto/spotify-track-id-lookup#html-search-form)
+- [Web page](https://github.com/disisto/spotify-track-id-lookup#1-web-page)
+- [Webhook](https://github.com/disisto/spotify-track-id-lookup#2-webhook)
+- [Open Graph](https://github.com/disisto/spotify-track-id-lookup#3-open-graph)
+- [OpenSearch](https://github.com/disisto/spotify-track-id-lookup#4-opensearch)
+- [HTML search form](https://github.com/disisto/spotify-track-id-lookup#5-html-search-form)
 
 
-## Web page
+## 1.) Web page
+
+Look up a Spotify Track ID
 
 <ol>
 <li>Visit with a web browser https://troubleshooting.tools/lookup/spotify/track/</li>
@@ -23,14 +25,14 @@ Spotify Track ID Lookup by troubleshooting.tools resolves the entered Spotify Tr
 <li>Hit enter key or submit button</li>
 </ol>
 
-## Webhook
+## 2.) Webhook
 
 Beside the classic form input on the web page, the web page supports also webhooks. This possibility is ideal to share a link and guide the recipient directly to the results.
 
 **URL:** **`https://troubleshooting.tools/lookup/spotify/track/`** `{spotify_track_id}` <br><br>
 Example: `https://troubleshooting.tools/lookup/spotify/track/6sPOmDulFtLzfX25zICNrC`
 
-## Open Graph
+## 3.) Open Graph
 
 Sharing the Webhook link into a web page or app that support the Open Graph protocol gives the opportunity to share a small excerpt of the results, without that the recipient need to visit the webpage itself.
 
@@ -49,7 +51,7 @@ Twitter:<br>
 <img src="https://github.com/disisto/spotify-track-id-lookup/blob/main/img/opengraph/twitter.png" style="width: 50%; height: 50%">
 
 
-## Open Search
+## 4.) Open Search
 
 The browser integration of troubleshooting.tools allows to use the browser address bar as a search input field, when needed, without visiting the original web page before.
 
@@ -96,7 +98,7 @@ This cause that Google Chrome address bar react like the search field on this we
 
 <img src="https://github.com/disisto/spotify-track-id-lookup/blob/main/img/opensearch/8_troubleshooting.tools_search_bar_c.jpg">
 
-## HTML search form
+## 5.) HTML search form
 
 To integrate the search bar into a different web page a few line are needed. The look and feel can be adjusted as desired.
 
